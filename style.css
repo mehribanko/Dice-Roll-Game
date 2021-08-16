@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to right, #ffcdb2, #e5989b);
+}
+
+.wrapper{
+    text-align: center;
+}
+
+h2{
+    margin: 20px;
+    font-size: 4rem;
+    color: white;
+}
+
+.dice-area{
+    margin: 0px 50px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+p{
+    font-size: 2.5rem;
+    color: rgba(131, 6, 156, 0.87);
+}
+
+img{
+    width: 200px;
+
+}
+
+button{
+    background: #b5838d;
+    width: 450px;
+    height: 50px;
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 10px;
+    border-radius: 10%;
+    border-color: #aac9ce;
+     
+}
